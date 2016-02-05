@@ -21,6 +21,7 @@
         <activity
             android:name=".BActivity"
             android:label="@string/title_activity_b"
+            android:banner="@color/colorPrimary"
             android:theme="@style/Base.Theme.AppCompat.Light.Dialog"></activity>
     </application>
 
